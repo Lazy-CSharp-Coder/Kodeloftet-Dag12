@@ -53,7 +53,10 @@ header {
 }
 
 .parallaxImage3 {
-  background-image: url("https://unsplash.com/photos/cyclist-riding-through-a-misty-forest-at-dawn-BaMvH7P_sHY");
+  background-image: url("/Images/bilde3paralax.jpg");
+  /* background-size: contain;
+  background-repeat: no-repeat; */
+  /* background-position: bottom; */
 }
 .parallaxText {
 

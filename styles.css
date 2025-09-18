@@ -30,6 +30,9 @@ section {
   height: 100vh;
 }
 
+.toTop {
+  position:sticky;
+}
 
 /* FOOTER */
 footer {

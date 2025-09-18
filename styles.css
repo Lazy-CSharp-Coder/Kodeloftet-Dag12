@@ -33,12 +33,10 @@ section {
 .toTop {
   
   display:flex;
-  align-items: flex-end;
+  justify-content: flex-end;
   position:relative;
-  right:0;
-  left: 25px;
-  top: 25px;
-  bottom: 0;
+  right:85px;
+  bottom: 15px;
 
 }
 

@@ -32,6 +32,7 @@ section {
 
 .toTop {
   position:sticky;
+  left: 25px;
 }
 
 /* FOOTER */

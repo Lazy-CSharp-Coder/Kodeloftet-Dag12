@@ -31,9 +31,13 @@ section {
 }
 
 .toTop {
-  display:inline;
-  position:sticky;
-  left: 200px;
+  
+  position:relative;
+  right:0;
+  left: 25px;
+  top: 25px;
+  bottom: 0;
+
 }
 
 /* FOOTER */

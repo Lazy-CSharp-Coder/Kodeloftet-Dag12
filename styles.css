@@ -32,6 +32,8 @@ section {
 
 .toTop {
   
+  display:flex;
+  align-items: flex-end;
   position:relative;
   right:0;
   left: 25px;

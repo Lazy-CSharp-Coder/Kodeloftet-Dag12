@@ -3,6 +3,10 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: sticky;
+  top:0;
+  background-color: white;
+  
 }
 
 .headerNav {
@@ -21,6 +25,11 @@ header {
 }
 
 /* MAIN */
+
+section {
+  height: 100vh;
+}
+
 
 /* FOOTER */
 footer {

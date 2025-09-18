@@ -36,8 +36,21 @@ header {
 
 /* MAIN */
 
-section {
-  height: 100vh;
+.parallaxEffect {
+
+}
+
+.parallaxImage {
+  background-image: url("/Images/bilde1paralax.jpg");
+}
+
+.parallaxImage2 {
+
+  background-image: url("/Images/bilde2paralax.jpg");
+}
+
+.parallaxText {
+
 }
 
 .toTop {

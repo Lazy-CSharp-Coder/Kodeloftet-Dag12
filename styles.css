@@ -38,7 +38,9 @@ header {
 
 .parallaxEffect {
   background-size: cover;
-
+  background-position: center;
+  background-attachment: fixed;
+  height:100vh;
 }
 
 .parallaxImage {
@@ -50,6 +52,9 @@ header {
   background-image: url("/Images/bilde2paralax.jpg");
 }
 
+.parallaxImage3 {
+  background-image: url("https://unsplash.com/photos/cyclist-riding-through-a-misty-forest-at-dawn-BaMvH7P_sHY");
+}
 .parallaxText {
 
 }

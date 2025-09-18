@@ -37,6 +37,7 @@ header {
 /* MAIN */
 
 .parallaxEffect {
+  background-size: cover;
 
 }
 
